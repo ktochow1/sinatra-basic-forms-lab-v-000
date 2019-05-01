@@ -6,8 +6,5 @@ attr_accessor :months_old, :name
     @months_old = months_old
     @breed = breed
   end
-  
-  # def months_old
-  #   @age = age 
-  # end 
+
 end
