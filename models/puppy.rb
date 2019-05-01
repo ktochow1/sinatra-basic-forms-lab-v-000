@@ -7,7 +7,7 @@ attr_accessor :age, :name
     @breed = breed
   end
   
-  def months_old(age)
+  def months_old
     @age = age 
   end 
 end
