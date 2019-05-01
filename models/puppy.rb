@@ -8,5 +8,6 @@ attr_accessor :age, :name
   end
   
   def months_old(age)
+    @age = age 
   end 
 end
